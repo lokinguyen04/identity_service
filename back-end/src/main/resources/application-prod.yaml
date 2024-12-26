@@ -1,0 +1,8 @@
+
+jwt:
+  valid-duration: 7200 # in second
+  refreshable-duration: 7200 # in seconds
+#
+#cors:
+#  allowed:
+#    origins: "http://localhost:3000"
